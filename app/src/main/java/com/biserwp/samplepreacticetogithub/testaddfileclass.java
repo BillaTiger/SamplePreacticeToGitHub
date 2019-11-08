@@ -7,5 +7,7 @@ public class testaddfileclass {
   public void fun1CreateOnGit(){
 
   }
-  
+  public void fun2(){
+
+  }
 }
